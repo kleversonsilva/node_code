@@ -1,2 +1,2 @@
-this.ola="fala pessoal"
-exports.bemVindo="bem vindo ao node"
+this.ola="fala pessoal, tubem com vcs?"
+exports.bemVindo="bem vindo ao curso node"
