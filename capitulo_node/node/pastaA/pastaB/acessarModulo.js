@@ -1,8 +1,18 @@
-const moduloA = require('../../moduloa')
-console.log(moduloA.ola)
+//const moduloA = require('../../moduloa')
+//console.log(moduloA.ola) //chamou na pasta moduloA
 
-const c = require('./pastaC/index')
-console.log(c.ola)
+//const c = require('./pastaC/index') //chamou na pasta idex.js
+//console.log(c.ola)
+
+//---chame na pasta moduloB---
+//const moduloB = require('../../moduloB')
+//console.log(moduloB.bomDia)
+
+
+
+
+
+
 
 
 //const http= require('http')
